@@ -23,7 +23,7 @@ Para te ajudar nesse desafio, criamos para você um modelo que você deve utiliz
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
 
 <p align="center">
-  <img  src="./assets/node-examplo.png">
+  <img  src="./assets/node-exemplo.png">
 </p>
 
 ### Rotas da aplicação
